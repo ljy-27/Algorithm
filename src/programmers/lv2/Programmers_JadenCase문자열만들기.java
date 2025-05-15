@@ -21,7 +21,7 @@ class Programmers_JadenCase문자열만들기 {
     }
 }
 
-class Solution {
+class Programmers_JadenCase문자열만들기2 {
     public String solution(String s) {
         StringBuilder sb = new StringBuilder();
         boolean isStart = true;

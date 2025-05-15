@@ -1,8 +1,8 @@
 package programmers.lv3;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
+//DFS
 class Programmers_네트워크 {
     static int[][] static_computers;
     static boolean[] visited;
@@ -35,10 +35,7 @@ class Programmers_네트워크 {
 }
 
 //BFS
-/*
-import java.util.*;
-
-class Solution {
+class Programmers_네트워크2 {
     static Queue<Integer> que = new LinkedList<>();
     static int[] check;
     public int solution(int n, int[][] computers) {
@@ -65,4 +62,3 @@ class Solution {
         }
     }
 }
- */
